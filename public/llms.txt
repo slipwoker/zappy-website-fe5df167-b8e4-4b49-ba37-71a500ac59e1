@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים אינסטלטור אמין בכל רחבי הארץ? דוד אינסטלציה מציע שירות מקצועי, מהיר ואיכותי ללקוחות פרטיים ועסקיים. זמינים עבורך 24 שעות ביממה!
+
+### שירותים
+https://example.com/services
+תיקון נזילות מים, התקנות חדשות ושירותי אינסטלציה מקצועיים לבית ולעסק. אינסטלטור מוסמך עם ניסיון עשיר מגיע לכל נקודה בישראל. גלו את כל השירותים שלנו!
+
+### אודות
+https://example.com/about
+דוד אינסטלציה הוא שם נרדף לאמינות ומקצועיות בתחום האינסטלציה בישראל. הכירו את הצוות המוסמך שלנו ואת הערכים שמנחים אותנו בכל עבודה. כי אינסטלטור טוב הוא לא מקרה!
+
+### צור קשר
+https://example.com/contact
+צריכים אינסטלטור דחוף 24 שעות? צרו קשר עם דוד אינסטלציה עכשיו ונגיע אליכם במהירות לכל מקום בישראל. אל תחכו — כל דקה חשובה כשיש נזילה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
